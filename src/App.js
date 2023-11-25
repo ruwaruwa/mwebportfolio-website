@@ -32,6 +32,7 @@ function App() {
           < Contact/>
         </div>
         <div className="footer pb-3 ms-3">
+     
           <Tada>
             <h4 className="text-center">Made With Ruweyda ali &copy; 2023</h4>
           </Tada>
